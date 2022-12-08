@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1668867791 source:d:\desktop\me\9rayav2\1ering\td algo numerique\projectalgonumérique\affichage.c
+
+1668869853 source:d:\desktop\me\9rayav2\1ering\td algo numerique\projectalgonumérique\creation.c
+
+1670495276 source:d:\desktop\me\9rayav2\1ering\td algo numerique\projectalgonumérique\main.c
+	<stdio.h>
+	<stdlib.h>
+	"MatriceDense.h"
+	"MatriceBande.h"
+	"MatriceInf.h"
+	"MatriceSup.h"
+	"Vecteur.h"
+
+1668867789 d:\desktop\me\9rayav2\1ering\td algo numerique\projectalgonumérique\affichage.h
+
+1668868902 d:\desktop\me\9rayav2\1ering\td algo numerique\projectalgonumérique\creation.h
+
+1670450627 source:d:\desktop\me\9rayav2\1ering\td algo numerique\projectalgonumérique\matricebande.c
+	<stdio.h>
+	<stdlib.h>
+
+1670451570 source:d:\desktop\me\9rayav2\1ering\td algo numerique\projectalgonumérique\matriceinf.c
+	<stdio.h>
+	<stdlib.h>
+
+1670450599 source:d:\desktop\me\9rayav2\1ering\td algo numerique\projectalgonumérique\vecteur.c
+	"stdio.h"
+
+1670451570 source:d:\desktop\me\9rayav2\1ering\td algo numerique\projectalgonumérique\matricesup.c
+	"Vecteur.h"
+	<stdio.h>
+	<stdlib.h>
+
+1670451735 d:\desktop\me\9rayav2\1ering\td algo numerique\projectalgonumérique\vecteur.h
+
+1670450976 d:\desktop\me\9rayav2\1ering\td algo numerique\projectalgonumérique\matricebande.h
+
+1670495324 d:\desktop\me\9rayav2\1ering\td algo numerique\projectalgonumérique\matricedense.h
+
+1670451570 d:\desktop\me\9rayav2\1ering\td algo numerique\projectalgonumérique\matriceinf.h
+
+1670451570 d:\desktop\me\9rayav2\1ering\td algo numerique\projectalgonumérique\matricesup.h
+
+1670494994 source:d:\desktop\me\9rayav2\1ering\td algo numerique\projectalgonumérique\matricedense.c
+	"Vecteur.h"
+	"MatriceSup.h"
+	<stdio.h>
+	<stdlib.h>
+
